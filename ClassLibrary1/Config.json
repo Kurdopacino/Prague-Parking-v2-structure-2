@@ -1,0 +1,16 @@
+﻿{
+  "TotalParkingSpaces": 100,
+  "FreeMinutes": 10,
+  "Prices": {
+    "BIL": 20.00,
+    "MC": 10.00,
+    "BUSS": 50.00,
+    "CYKEL": 5.00
+  },
+  "MaxVehiclesPerSlot": {
+    "BIL": 1,
+    "MC": 2,
+    "BUSS": 1,
+    "CYKEL": 4
+  }
+}
